@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Flutter Backend Technologies Node.js**
 - 👨‍💻 All of my projects are available at [https://github.com/NabeelTiwana](https://github.com/NabeelTiwana)
 - 📝 I regularly post my work on LinkedIn [Muhammad Nabeel ](https://www.linkedin.com/in/muhammad-nabeel-javed-353465242/)
-- 💬 Ask me about **Flutter | Dart | Java | DSA | System Design**
+- 💬 Ask me about **Flutter | Dart | C++ | Java | DSA | System Design**
 - 📫 How to reach me **nabeeltiwana122@gmail.com**
 - 📄 I regularly post my work on Facebook [Nabeel Tiwana](https://www.facebook.com/share/19eUR82tA4/)
 - ⚡ Fun fact and Hobby: **Like to play Volleyball and Reading Books**
