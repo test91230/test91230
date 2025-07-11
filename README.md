@@ -29,13 +29,13 @@
 ## 🌐 Socials:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://facebook.com/NabeelTiwana" target="blank">
+  <a href="https://www.facebook.com/share/19eUR82tA4/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/muhammad-nabeel-javed-353465242" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/MuhammadNabeelJaved" target="blank">
+  <a href="https://stackoverflow.com/users/30998715/muhammad-nabeel-javed?tab=profile" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/Muhammad_Nabeel_Javed" target="blank">
