@@ -1,8 +1,8 @@
+![logo](https://github.com/test91230/test91230/blob/main/nabeel%20tiwana.jpg)
 
-
-<h1 align="center">Hi 👋, I'm Muhammad Nabeel </h1>
+<h1 align="center">✅ Mastery == 1% progress × consistency ✅<br> </h1>
 <h3 align="center"><br>Full Stack Application Developer | Flutter & Node.js | AI-Driven & Scalable App Integration | Native and Hybrid Application Development | MVVM and Clean Architecture | SOLID Principles and Design patterns | API Integration | State management (BloC and provider) | Navigation and routing technique | Animations | OOP and functional programming | Database (SQL, SQLite, Shared preference, Firebase) | CI/CD | Deployment </h3>
-<h2 align="center">✅ Mastery == 1% progress × consistency ✅<br> </h2>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NabeelTiwana&label=Profile%20views&color=0e75b6&style=flat" alt="NabeelTiwana" /> </p>
 
